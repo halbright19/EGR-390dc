@@ -1,2 +1,2 @@
-# engineering-at-smith
-Projects from my engineering classes
+# EGR-390dc
+Projects from my engineering class, digital circuits
